@@ -1,6 +1,6 @@
-# OpenWhisk 勉強会 (Japan)
+# OpenWhisk 友の会 (Japan)
 
-## OpenWhisk勉強会とは
+## OpenWhisk 友の会とは
 
 OpenWhiskを触ったことのない方から、プロフェッショナルの方までを対象にOpenSourceのFunction as a Serviceを楽しく学び合うことで、OpenWhiskの魅力あ活用方法を皆で共通するための勉強会コミュニティです。
 
